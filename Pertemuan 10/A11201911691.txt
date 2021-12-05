@@ -1,0 +1,9 @@
+A11.2019.11691
+Ronald Adithya Rizkhie Soeharto
+
+
+Cube -> Transform,Cube(Mesh Filter),Mesh Renderer,Box Collider,Default-Material
+Sphere -> Transform,Sphere(Mesh Filter),Mesh Renderer,Sphere Collider,Default-Material
+Capsule -> Transform,Capsule(Mesh Filter),Mesh Renderer,Capsule Collider,Default-Material
+Cylinder -> Transform,Cylinder(Mesh Filter),Mesh Renderer,Capsule Collider,Default-Material
+Plane -> Transform,Plane(Mesh Filetr),Mesh Renderer,Mesh Collider,Defaulth-Material
